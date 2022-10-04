@@ -55,31 +55,29 @@ return
 
 
 
-:*:mycel::
-	Send 3192789289
-return
-
-:*:mydir::
-	Send Carrera 10 N 19 53 Sur Apto 304
-return
-
-:*:myname::
+:*:asdf::
 	Send Luis Alberto
 return
 
 
-:*:mylastn::
+:*:jkl;::
 	Send Castillo Bello
 return
 
-:*:myfulln::
-	Send Luis Alberto Castillo Bello
+
+:*:fdsa::
+	Send 3192789289
 return
 
-:*:mymail::
+:*:;lkj::
+	Send Carrera 10 N 19 53 Sur Apto 304
+return
+
+
+:*:jfjf::
 	Send lacb93@gmail.com
 return
 
-:*:mycc::
+:*:fjfj::
 	Send 1023929938
 return
