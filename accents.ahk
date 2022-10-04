@@ -52,3 +52,34 @@ If GetKeyState("CapsLock", "T")
 Else
 	Send {Asc 163}
 return
+
+
+
+:*:mycel::
+	Send 3192789289
+return
+
+:*:mydir::
+	Send Carrera 10 N 19 53 Sur Apto 304
+return
+
+:*:myname::
+	Send Luis Alberto
+return
+
+
+:*:mylastn::
+	Send Castillo Bello
+return
+
+:*:myfulln::
+	Send Luis Alberto Castillo Bello
+return
+
+:*:mymail::
+	Send lacb93@gmail.com
+return
+
+:*:mycc::
+	Send 1023929938
+return
